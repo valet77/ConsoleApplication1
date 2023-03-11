@@ -1,1 +1,1 @@
-# ConsoleApplication1    учебная программа на С++
+# ConsoleApplication1  - это учебная программа на С++
